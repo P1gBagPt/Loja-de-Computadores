@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/lib/beansbinding-1.2.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="dist/lib/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="dist/lib/rs2xml.jar"/>
+	<classpathentry kind="lib" path="dist/lib/ucanaccess-5.0.0.jar"/>
+	<classpathentry kind="lib" path="dist/LojaPc.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
